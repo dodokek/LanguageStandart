@@ -149,7 +149,8 @@ x <= 5
 
 Попробую написать тут примерный вывод, который должен быть для программы, фотография которой должна быть где-то вставлена.
 
-![Картинка не прогрузилась, блет]([http://url/to/img.png](https://sun1-30.userapi.com/impg/G3sZeMKzp4B9bbkb2CMMT4yo6akbrur0T8wOpg/9yXmQd6GDaU.jpg?size=1600x1200&quality=95&sign=1b22d64a2babc27e85ce3cd5cfec1c92&type=album))
+
+![Картинка не прогрузилась, блет](https://github.com/dodokek/LanguageStandart/blob/main/2ABOBA.jpg?raw=true)
 
 ~~~
 {
@@ -287,6 +288,9 @@ x <= 5
         }
 }
 ~~~
+Если чё, я списывал отсюда
+![bebra](https://github.com/dodokek/LanguageStandart/blob/main/1ABOBA.jpg?raw=true)
+
 Весьма очевидная запись, проверка её правильности оставляется внимательному читателю.
 Тут не было реализован вызов функции, это также упражнение для читателей
 
