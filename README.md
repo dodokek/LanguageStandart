@@ -647,31 +647,33 @@ int b = 10;
  ~~~   
   
 ## Optional operators
-# IS_EE: ==
-# IS_GE: >=
-# IS_BE: <=
-# IS_GT: >
-# IS_BT: <
-# IS_NE: !=
-# SQRT : sqrt()
-# OR   : || 
-# AND  : && 
+- IS_EE: ==
+- IS_GE: >=
+- IS_BE: <=
+- IS_GT: >
+- IS_BT: <
+- IS_NE: !=
+- SQRT : sqrt()
+- OR   : || 
+- AND  : && 
             
 ## Краткая версия
-# ST
-# IF
-# ELSE
-# NIL
-# VAR
-# WHILE
-# FUNC
-# RET
-# CALL
-# PARAM
-# EQ
-# "<name>"
-# <value>
-#  
+- ST
+- IF
+- ELSE
+- NIL
+- VAR
+- WHILE
+- FUNC
+- RET
+- CALL
+- PARAM
+- EQ
+- VOID
+- TYPE            
+- "<name>"
+- <value>
+ 
             
 ## Optional nodes
   
@@ -707,3 +709,16 @@ $id1 { NODE1
              { NIL } 
 $
 ~~~
+ 
+ 
+ ## Дополнительно
+ 
+В каждом дереве обязана присутствовать функция main.
+ 
+Стоит заметить что в дереве нет узлов типа INT/DOUBLE, только TYPE.
+ 
+ Стандарт не является полноцено описанным в данном файле, поэтому за уточнением реального положения
+ дел обращайтесь в горящую линию любым удобным для вас способом:
+ number: +79165040945
+ vk.com: https://vk.me/join/6R1xHpOYNBzlvoSsvTS4P4fq4yJd72gvp2c=
+ room: 319 (правая верхняя кровать по направлению входа)
